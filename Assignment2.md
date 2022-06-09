@@ -102,5 +102,3 @@ Q16) Drop the table customer1 and customer2 table.
 drop table Customer1;
 drop table Customer2;
 ```
-
-## Part 2
