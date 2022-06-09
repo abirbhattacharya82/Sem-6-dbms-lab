@@ -1,6 +1,6 @@
 ## Part 1
 
-Q1) Create a table customer with the following fields
+Q1) Create a table customer with the following fields <br>
 ![](images/assignment2/table-attributes1.png)
 ```
 create table Customer(
@@ -9,7 +9,7 @@ Name varchar(20),
 Age varchar(3));
 ```
 
-Q2) Insert data in the Customer Table
+Q2) Insert data in the Customer Table <br>
 ![](images/assignment2/table1.png)
 ```
 insert into Customer values (1,'Ramesh',32);
@@ -19,7 +19,7 @@ insert into Customer values (4,'Komal',30);
 insert into Customer values (5,'Tomal',30);
 ```
 
-Q3) Add two new column ADDRESS and SALARY and set the value as
+Q3) Add two new column ADDRESS and SALARY and set the value as <br>
 ![](images/assignment2/table2.png)
 ```
 alter table Customer add (
