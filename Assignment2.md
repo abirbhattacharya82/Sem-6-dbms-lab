@@ -1,5 +1,3 @@
-## Part 1
-
 Q1) Create a table customer with the following fields <br>
 ![](images/assignment2/table-attributes1.png)
 ```
