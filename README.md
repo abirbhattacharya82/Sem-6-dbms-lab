@@ -7,3 +7,5 @@
 [Assignment 2](Assignment2.md) <br>
 [Assignment 3](Assignment3.md) <br>
 [Assignment 4](Assignment4.md) <br>
+[Assignment 5](Assignment5.md) <br>
+[Assignment 6](Assignment6.md) <br>
