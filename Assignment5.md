@@ -16,6 +16,7 @@ Q2) Create a table Loan (shown below) and insert the following data. <br>
 L_ID & NAME as primary key. <br>
 C_ID is foreign key to the customer table. <br>
 By default take LDATE as system date. <br>
+![](images/assignment5/table5b.png)
 ```
 create table Loan(
 L_id varchar(3),
